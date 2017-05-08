@@ -1,0 +1,6 @@
+Fig5
+	Low e/i case (circ_copl_long)
+Fig6
+	High e/i case (ecc_incl_long)
+Fig7
+	Both Low and High (short) 

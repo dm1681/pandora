@@ -1,0 +1,19 @@
+sName	b
+saModules	eqtide
+
+sTideModel	p2
+
+dMass	47.4416563668
+dRadius	6.388857798512036
+dObliquity	0
+dRadGyra	0.5
+
+dEcc	0.146571693746
+dSemi	0.0805504764879
+
+bForceEqSpin	1
+dTidalQ	2009402.80565
+dK2	0.3
+saTidePerts	star
+
+saOutputOrder	Time Semim Ecce
